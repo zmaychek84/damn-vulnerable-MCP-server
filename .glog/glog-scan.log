@@ -1,0 +1,2066 @@
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:43 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-generic-secret.detected-generic-secret
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-generic-secret.detected-generic-secret
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-generic-secret.detected-generic-secret
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-generic-secret.detected-generic-secret
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:44 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.tempfile-without-flush
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.tempfile-without-flush
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.insecure-file-permissions.insecure-file-permissions
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.insecure-file-permissions.insecure-file-permissions
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-file-permissions
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-file-permissions
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-stripe-api-key.detected-stripe-api-key
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-stripe-api-key.detected-stripe-api-key
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-stripe-api-key.detected-stripe-api-key
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-stripe-api-key.detected-stripe-api-key
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.python-dynamic-execution-eval
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.eval-detected.eval-detected
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-eval-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:45 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.generic.secrets.security.detected-jwt-token.detected-jwt-token
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.hardcoded-tmp-path
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-hash-algorithm-md5
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-hash-algorithm-md5
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-hashlib-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.insecure-hashlib-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.useless-inner-function
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dlint-catastrophic-redos
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dlint-catastrophic-redos
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.return-in-init
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.dangerous-subprocess-use
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.python.lang.security.audit.subprocess-shell-true.subprocess-shell-true
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:17:46 PM ai.glog.execute.workers.TriageAndRemediationCallableWorker call
+SEVERE: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+java.lang.IllegalArgumentException: No enum constant ai.glog.plugins.bandit.plugin.BugEnum.resources.rules.python.missing-ratelimit
+	at java.base/java.lang.Enum.valueOf(Enum.java:274)
+	at ai.glog.plugins.bandit.plugin.BugEnum.valueOf(BugEnum.java:6)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.getResolver(TriageAndRemediationCallableWorker.java:97)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:62)
+	at ai.glog.execute.workers.TriageAndRemediationCallableWorker.call(TriageAndRemediationCallableWorker.java:32)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+Jan 05, 2026 1:27:43 PM ai.glog.execute.workers.FileCallableWorker call
+SEVERE: null
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1765)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.awaitTermination(ThreadPoolExecutor.java:1475)
+	at ai.glog.execute.workers.FileCallableWorker.call(FileCallableWorker.java:62)
+	at ai.glog.execute.workers.FileCallableWorker.call(FileCallableWorker.java:18)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
